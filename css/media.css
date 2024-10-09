@@ -459,9 +459,6 @@
   .gallery {
     padding: 50px 0 40px;
     min-height: unset;
-  }
-
-  .gallery__container {
     background-image: url(../img/gallery/background-320.jpg);
   }
 
@@ -789,9 +786,6 @@
   .gallery {
     padding: 50px 0 40px;
     min-height: 1206px;
-  }
-
-  .gallery__container {
     background-image: url(../img/gallery/background-320.jpg);
   }
 
